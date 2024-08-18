@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-image: url("/assignment/record.png");
+    background-repeat: repeat;
+
+    
+}
+#blue-banner{
+    background-color: rgb(36, 1, 119);
+    color:#f0f8ff
+    
+}
+.page-title{
+    text-align: center;
+    color: rgb(5, 235, 227);
+}
+.Jaynu-Record-Shop{
+    text-align: center;
+    color: rgb(215, 251, 239);
+    
+}
+#main-content{
+    background-color: #e0dcdc;
+    padding: 1em;
+    margin-bottom: 100%;
+   
+}
+#My-list{
+   
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    
+  }
+
+
