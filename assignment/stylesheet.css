@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url("/assignment/record.png");
+    background-image: url("./record.png");
     background-repeat: repeat;
 
     
@@ -14,7 +14,7 @@ body{
     text-align: center;
     color: rgb(5, 235, 227);
 }
-.Jaynu-Record-Shop{
+.jaynu-record-shop{
     text-align: center;
     color: rgb(215, 251, 239);
     
@@ -25,7 +25,7 @@ body{
     margin-bottom: 100%;
    
 }
-#My-list{
+#my-list{
    
     padding: 3px;
     background-color: DarkSalmon;
